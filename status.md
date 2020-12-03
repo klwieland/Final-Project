@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-Created object and updaited main.lua
+Created object and updated main.lua
 
 #### What have you not done for your project yet?
 
